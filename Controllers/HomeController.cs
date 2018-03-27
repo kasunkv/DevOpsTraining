@@ -23,7 +23,7 @@ namespace AdraDevOpsTraining.Controllers
         public ActionResult Contact()
         {
             // TODO
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your Contact Page.";
 
             return View();
         }
